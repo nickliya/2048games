@@ -1,0 +1,2769 @@
+﻿  ANDROID_HOME=
+  ANT_HOME=
+  JAVA_HOME=C:\Program Files\Java\jdk1.8.0_152
+  NDK_ROOT=
+  AppDelegate.cpp
+  HelloWorldScene.cpp
+  cpu-features.c
+  CCAction.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCActionCamera.cpp
+  CCActionEase.cpp
+  CCActionCatmullRom.cpp
+  CCActionGrid.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCActionGrid3D.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCActionInstant.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCActionInterval.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCActionManager.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCActionPageTurn3D.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCActionProgressTimer.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCActionTiledGrid.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCActionTween.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCAnimation.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCAnimationCache.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCAtlasNode.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCAutoPolygon.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCCamera.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCCameraBackgroundBrush.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCClippingNode.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCClippingRectangleNode.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCComponent.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCComponentContainer.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCDrawingPrimitives.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCDrawNode.cpp
+  CCFastTMXLayer.cpp
+  CCFastTMXTiledMap.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCFont.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCFontAtlas.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCFontAtlasCache.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCFontCharMap.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCFontFNT.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCFontFreeType.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCGLBufferedNode.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCGrabber.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCGrid.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCLabel.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCLabelAtlas.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCLabelBMFont.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCLabelTextFormatter.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCLabelTTF.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCLayer.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCLight.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCMenu.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCMenuItem.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCMotionStreak.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCNode.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCNodeGrid.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCParallaxNode.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCParticleBatchNode.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCParticleExamples.cpp
+  CCParticleSystem.cpp
+  CCParticleSystemQuad.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCProgressTimer.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCProtectedNode.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCRenderTexture.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCScene.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCSprite.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCSpriteBatchNode.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCSpriteFrame.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCSpriteFrameCache.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCTextFieldTTF.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCTileMapAtlas.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCTMXLayer.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCTMXObjectGroup.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCTMXTiledMap.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCTMXXMLParser.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCTransition.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCTransitionPageTurn.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCTransitionProgress.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCTweenFunction.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCAABB.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCAnimate3D.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCAttachNode.cpp
+  CCBillBoard.cpp
+  CCAnimation3D.cpp
+  CCBundle3D.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCBundleReader.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCFrustum.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCMesh.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCMeshSkin.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCMeshVertexIndexData.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCMotionStreak3D.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCOBB.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCObjLoader.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCPlane.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCRay.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCSkeleton3D.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCSkybox.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCSprite3D.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCSprite3DMaterial.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCTerrain.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  AssetFd.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  AudioDecoder.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  AudioEngine-inl.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  AudioMixer.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  AudioMixerController.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  AudioPlayerProvider.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  AudioResampler.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  AudioResamplerCubic.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  format.c
+  minifloat.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  primitives.c
+  ccdandroidUtils.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCThreadPool.cpp
+  cddSimpleAudioEngine.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  cddandroidAndroidJavaEngine.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  PcmAudioPlayer.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  PcmAudioService.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  PcmBufferProvider.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  PcmData.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  Track.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UrlAudioPlayer.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  Utils.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  AudioEngine.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCAllocatorDiagnostics.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCAllocatorGlobal.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCAllocatorGlobalNewDelete.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  atitc.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  base64.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCAsyncTaskPool.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCAutoreleasePool.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  ccCArray.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCConfiguration.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCConsole.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCController-android.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCController.cpp
+  CCData.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCDataVisitor.cpp
+  CCDirector.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCEvent.cpp
+  CCEventAcceleration.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCEventController.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCEventCustom.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCEventDispatcher.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCEventFocus.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCEventKeyboard.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCEventListener.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCEventListenerAcceleration.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCEventListenerController.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCEventListenerCustom.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCEventListenerFocus.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCEventListenerKeyboard.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCEventListenerMouse.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCEventListenerTouch.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCEventMouse.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCEventTouch.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  ccFPSImages.c
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCIMEDispatcher.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCNinePatchImageParser.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCNS.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCProfiling.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCProperties.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  ccRandom.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCRef.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCScheduler.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCScriptSupport.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCStencilStateManager.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCTouch.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  ccTypes.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCUserDefault-android.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCUserDefault-winrt.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCUserDefault.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  ccUTF8.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  ccUtils.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCValue.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  etc1.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  ObjectFactory.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  pvr.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  s3tc.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  TGAlib.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  ZipUtils.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  cocos2d.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCArray.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCDeprecated.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCDictionary.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCNotificationCenter.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCSet.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCString.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCAffineTransform.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCGeometry.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCVertex.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  Mat4.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  MathUtil.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  Quaternion.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  TransformUtils.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  Vec2.cpp
+  Vec3.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  Vec4.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCNavMesh.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCNavMeshAgent.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCNavMeshDebugDraw.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCNavMeshObstacle.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCNavMeshUtils.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCDownloader-android.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCDownloader.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  HttpCookie.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  WebSocket.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCPhysics3D.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCPhysics3DComponent.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCPhysics3DConstraint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCPhysics3DDebugDrawer.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCPhysics3DObject.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCPhysics3DShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCPhysics3DWorld.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCPhysicsSprite3D.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCPhysicsBody.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCPhysicsContact.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCPhysicsJoint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCPhysicsShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCPhysicsWorld.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCApplication-android.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCCommon-android.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCDevice-android.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCEnhanceAPI-android.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCFileUtils-android.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCGLViewImpl-android.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  javaactivity-android.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  Java_org_cocos2dx_lib_Cocos2dxAccelerometer.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  Java_org_cocos2dx_lib_Cocos2dxBitmap.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  Java_org_cocos2dx_lib_Cocos2dxHelper.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  Java_org_cocos2dx_lib_Cocos2dxRenderer.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  JniHelper.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  TouchesJni.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCFileUtils.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCGLView.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCImage.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCSAXParser.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCThread.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCBatchCommand.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCCustomCommand.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCFrameBuffer.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCGLProgram.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCGLProgramCache.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCGLProgramState.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCGLProgramStateCache.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  ccGLStateCache.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCGroupCommand.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCMaterial.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCMeshCommand.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCPass.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCPrimitive.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCPrimitiveCommand.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCQuadCommand.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCRenderCommand.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCRenderer.cpp
+  CCRenderState.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  ccShaders.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCTechnique.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCTexture2D.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCTextureAtlas.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCTextureCache.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCTextureCube.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCTrianglesCommand.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCVertexAttribBinding.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCVertexIndexBuffer.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CCVertexIndexData.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  LocalStorage-android.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  LocalStorage.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  CocosGUI.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIAbstractCheckButton.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIButton.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UICheckBox.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIDeprecated.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIEditBox.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIEditBoxImpl-android.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIEditBoxImpl-common.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIEditBoxImpl-linux.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIEditBoxImpl-stub.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIEditBoxImpl-win32.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIEditBoxImpl-winrt.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIHBox.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIHelper.cpp
+  UIImageView.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UILayout.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UILayoutComponent.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UILayoutManager.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UILayoutParameter.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIListView.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UILoadingBar.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIPageView.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIPageViewIndicator.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIRadioButton.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIRelativeBox.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIRichText.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIScale9Sprite.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIScrollView.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIScrollViewBar.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UISlider.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIText.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UITextAtlas.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UITextBMFont.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UITextField.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIVBox.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIVideoPlayer-android.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIWebView.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIWebViewImpl-android.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  UIWidget.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2BroadPhase.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2CollideCircle.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2CollideEdge.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2CollidePolygon.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2Collision.cpp
+  b2Distance.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2DynamicTree.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2TimeOfImpact.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2ChainShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2CircleShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2EdgeShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2PolygonShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2BlockAllocator.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2Draw.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2Math.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2Settings.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2StackAllocator.cpp
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2Timer.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2Body.cpp
+  b2ContactManager.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2Fixture.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2Island.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2World.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2WorldCallbacks.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2ChainAndCircleContact.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2ChainAndPolygonContact.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2CircleContact.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2Contact.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2ContactSolver.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2EdgeAndCircleContact.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2EdgeAndPolygonContact.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2PolygonAndCircleContact.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2PolygonContact.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2DistanceJoint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2FrictionJoint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2GearJoint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2Joint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2MotorJoint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2MouseJoint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2PrismaticJoint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2PulleyJoint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2RevoluteJoint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2RopeJoint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2WeldJoint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2WheelJoint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  b2Rope.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btAxisSweep3.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btBroadphaseProxy.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btCollisionAlgorithm.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btDbvt.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btDbvtBroadphase.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btDispatcher.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btMultiSapBroadphase.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btOverlappingPairCache.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btQuantizedBvh.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btSimpleBroadphase.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btActivatingCollisionAlgorithm.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btBox2dBox2dCollisionAlgorithm.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btBoxBoxCollisionAlgorithm.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btBoxBoxDetector.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btCollisionDispatcher.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btCollisionObject.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btCollisionWorld.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btCompoundCollisionAlgorithm.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btCompoundCompoundCollisionAlgorithm.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btConvex2dConvex2dAlgorithm.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btConvexConvexAlgorithm.cpp
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btConvexConcaveCollisionAlgorithm.cpp
+  btConvexPlaneCollisionAlgorithm.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btDefaultCollisionConfiguration.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btEmptyCollisionAlgorithm.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btGhostObject.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btHashedSimplePairCache.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btInternalEdgeUtility.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btManifoldResult.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btSimulationIslandManager.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btSphereBoxCollisionAlgorithm.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btSphereSphereCollisionAlgorithm.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btSphereTriangleCollisionAlgorithm.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btUnionFind.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  SphereTriangleDetector.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btBox2dShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btBoxShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btBvhTriangleMeshShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btCapsuleShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btCollisionShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btCompoundShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btConcaveShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btConeShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btConvex2dShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btConvexHullShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btConvexInternalShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btConvexPointCloudShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btConvexPolyhedron.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btConvexShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btCylinderShape.cpp
+  btConvexTriangleMeshShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btEmptyShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btHeightfieldTerrainShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btMinkowskiSumShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btMultimaterialTriangleMeshShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btMultiSphereShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btOptimizedBvh.cpp
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btPolyhedralConvexShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btScaledBvhTriangleMeshShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btShapeHull.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btSphereShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btStaticPlaneShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btStridingMeshInterface.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btTetrahedronShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btTriangleBuffer.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btTriangleCallback.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btTriangleIndexVertexArray.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btTriangleIndexVertexMaterialArray.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btTriangleMesh.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btTriangleMeshShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btUniformScalingShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btContactProcessing.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btGenericPoolAllocator.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btGImpactBvh.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btGImpactCollisionAlgorithm.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btGImpactQuantizedBvh.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btGImpactShape.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btTriangleShapeEx.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  gim_box_set.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  gim_contact.cpp
+  gim_memory.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  gim_tri_collision.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btContinuousConvexCollision.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btConvexCast.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btGjkConvexCast.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btGjkEpa2.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btGjkEpaPenetrationDepthSolver.cpp
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btGjkPairDetector.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btMinkowskiPenetrationDepthSolver.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btPersistentManifold.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btPolyhedralContactClipping.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btRaycastCallback.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btSubSimplexConvexCast.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btVoronoiSimplexSolver.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btKinematicCharacterController.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btConeTwistConstraint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btContactConstraint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btFixedConstraint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btGearConstraint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btGeneric6DofConstraint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btGeneric6DofSpringConstraint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btHinge2Constraint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btHingeConstraint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btPoint2PointConstraint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btSequentialImpulseConstraintSolver.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btSliderConstraint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btSolve2LinearConstraint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btTypedConstraint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btUniversalConstraint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btDiscreteDynamicsWorld.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btRigidBody.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btSimpleDynamicsWorld.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  Bullet-C-API.cpp
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btMultiBody.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btMultiBodyConstraint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btMultiBodyConstraintSolver.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btMultiBodyDynamicsWorld.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btMultiBodyJointLimitConstraint.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btMultiBodyJointMotor.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btMultiBodyPoint2Point.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btDantzigLCP.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btMLCPSolver.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btRaycastVehicle.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btWheelInfo.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btGpu3DGridBroadphase.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btParallelConstraintSolver.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btThreadSupportInterface.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  PosixThreadSupport.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  SequentialThreadSupport.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  SpuCollisionObjectWrapper.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  SpuCollisionTaskProcess.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  SpuContactManifoldCollisionAlgorithm.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  SpuFakeDma.cpp
+  SpuGatheringCollisionDispatcher.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  SpuLibspe2Support.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  boxBoxDistance.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  SpuCollisionShapes.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  SpuContactResult.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  SpuGatheringCollisionTask.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  SpuMinkowskiPenetrationDepthSolver.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  SpuSampleTaskProcess.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  SpuSampleTask.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  Win32ThreadSupport.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btDefaultSoftBodySolver.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btSoftBody.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btSoftBodyConcaveCollisionAlgorithm.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btSoftBodyHelpers.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btSoftBodyRigidBodyCollisionConfiguration.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btSoftRigidCollisionAlgorithm.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btSoftRigidDynamicsWorld.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btSoftSoftCollisionAlgorithm.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btAlignedAllocator.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btConvexHull.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btConvexHullComputer.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btGeometryUtil.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btPolarDecomposition.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btQuickprof.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btSerializer.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  btVector3.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  MiniCL.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  MiniCLTaskScheduler.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  MiniCLTask.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  clipper.cpp
+  ConvertUTF.c
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  ConvertUTFWrapper.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  edtaa3func.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  shapes.cc
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  advancing_front.cc
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  cdt.cc
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  sweep.cc
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  sweep_context.cc
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  DebugDraw.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  DetourDebugDraw.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  RecastDebugDraw.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  RecastDump.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  DetourCrowd.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  DetourLocalBoundary.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  DetourObstacleAvoidance.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  DetourPathCorridor.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  DetourPathQueue.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  DetourProximityGrid.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  DetourTileCache.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  DetourTileCacheBuilder.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  DetourAlloc.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  DetourCommon.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  DetourNavMesh.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  DetourNavMeshBuilder.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  DetourNavMeshQuery.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  DetourNode.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  fastlz.c
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  Recast.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  RecastAlloc.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  RecastArea.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  RecastContour.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  RecastFilter.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  RecastLayers.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  RecastMesh.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  RecastMeshDetail.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  RecastRasterization.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  RecastRegion.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  tinyxml2.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  ioapi.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  ioapi_mem.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  unzip.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  xxhash.c
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  main.cpp
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
+  TRACKER : ���� TRK0005: δ���ҵ�: ��clang.exe����ϵͳ�Ҳ���ָ�����ļ���
+  
+  
+D:\DEV\vs2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Clang.targets(130,5): error MSB6006: “clang.exe”已退出，代码为 5。
